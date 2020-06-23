@@ -1,0 +1,7 @@
+name: API
+main: fr.denoria.api.DenoAPI
+version: 1.0
+author: Skogrin
+commands:
+  redis:
+    description: r
